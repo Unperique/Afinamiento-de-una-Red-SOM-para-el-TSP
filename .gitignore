@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.so
+.vscode/
+.env
+.env.*
+results/
+*.png
+.DS_Store
+.idea/
+__MACOSX/
